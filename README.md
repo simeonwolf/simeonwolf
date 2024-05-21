@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @simeonwolf
+- 👀 I’m interested in high-reduction gearboxes for robotics such as **Harmonic-Drives**, **Wolfrom Gearboxes**, **Cyclo Gearboxes**.
+- 🌱 I’m currently learning **Python**.
+- 💞️ I’m looking to collaborate on **Gearbox Development**.
+- 📫 How to reach me: 
+- ⚡ Fun fact: ...
